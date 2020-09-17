@@ -1,1 +1,2 @@
 # thesis_bang_jaya
+Script to get altitude from latitude and longitude data based on OpenStreetMap. Modified from https://stackoverflow.com/questions/19513212/can-i-get-the-altitude-with-geopy-in-python-with-longitude-latitude
